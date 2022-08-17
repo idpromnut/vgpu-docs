@@ -3,10 +3,10 @@ A place for all the nuggets of wisdom regarding virtualization, GPU and things.
 
 # Topics
 
-## [Proxmox](./proxmox/proxmox.md)
+## [Proxmox](proxmox.md)
 
-## [VMware ESX](./esx/esx.md)
+## [VMware ESX](esx.md)
 
-## [Microsoft Hyper-V](./hyper-v/hyperv.md)
+## [Microsoft Hyper-V](hyperv.md)
 
-## [Parsec](./parsec/parsec.md)
+## [Parsec](parsec.md)
